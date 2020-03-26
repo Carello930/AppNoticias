@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Noticias</string>
+    <string name="aprenda_sobre_edi_o_de_imagens">Aprenda sobre edição de imagens</string>
+    <string name="date">Date</string>
+    <string name="tecnologia_o_conjunto_de_t_cnicas_habilidades_m_todos_e_processos_usados_na_produ_o_de_bens_ou_servi_os_ou_na_realiza_o_objetivos_como_por_exemplo_em_investiga_es_cient_ficas">Tecnologia é o conjunto de técnicas, habilidades, métodos e processos usados na produção de bens ou serviços, ou na realização objetivos, como por exemplo em investigações científicas.</string>
+    <string name="pr_xima">Próxima</string>
+    <string name="anterior">Anterior</string>
+    <string name="bruno_mendes">Bruno Mendes</string>
+    <string name="todo">TODO</string>
+</resources>
